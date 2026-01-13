@@ -20,7 +20,7 @@ $_DVWA[ 'db_password' ] = 'VictorNathan1234';
 
 # Le port MySQL par défaut de MAMP est souvent 8889.;
 # Si cela ne marche pas, essayez 3306.;
-$_DVWA[ 'db_port']      = '8889'; 
+$_DVWA[ 'db_port']      = '3306'; 
 
 # ReCAPTCHA settings;
 #   Used for the 'Insecure CAPTCHA' module;
